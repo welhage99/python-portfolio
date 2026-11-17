@@ -1,31 +1,28 @@
-# Python Portfolio | Wendy El Hage
+# Wendy El Hage | Python Portfolio
 
-Selected Python projects demonstrating how I use data to investigate business questions and translate findings into practical recommendations
+Chicago Booth MBA student using Python to explore business questions in retail, consumer products, and strategy
 
-## Featured Project
+## Featured Work
 
-### Sephora Skincare Analysis
+### Sephora Skincare | Pricing & Customer Insights
 
-Exploratory analysis of **2,420 skincare products and over 1 million customer reviews**, examining pricing, brand positioning, product assortment, and customer satisfaction
+**2,420 products · 1M+ reviews · Python**
 
-- **Business focus:** What can product and review data tell a skincare category manager about pricing and merchandising?
-- **Methods:** Data cleaning, visualization, correlation analysis, feature engineering, sensitivity analysis, and exploratory text analysis
-- **Tools:** Python, pandas, NumPy, Matplotlib, seaborn, and scikit-learn
+Does a higher skincare price mean a better customer rating?
 
-[Project overview and findings](sephora-skincare/README.md) · [Python notebook](sephora-skincare/Sephora_Skincare_EDA.ipynb)
+Analyzed product pricing, brand positioning, and customer reviews to inform assortment and merchandising decisions
 
-## Skills Demonstrated
+**Selected findings**
+- Price had only a weak association with customer ratings — Spearman correlation of 0.13
+- Moisturizers, treatments, and cleansers represented 56.9% of the skincare assortment
+- Breakout-related language appeared more frequently in low-rated reviews
 
-- Acquiring and combining data from multiple files
-- Identifying data quality issues and handling missing information
-- Exploring patterns through visualizations and statistical summaries
-- Testing how assumptions affect conclusions
-- Communicating business implications and analytical limitations
+**Technical skills:** Data acquisition, cleaning, joins, visualization, feature engineering, sensitivity analysis, and exploratory text analysis
 
-## Viewing the Work
+[View Python notebook](sephora-skincare/Sephora_Skincare_EDA.ipynb) · [Read project overview](sephora-skincare/README.md)
 
-Each project folder contains its own README explaining the objective, dataset, methods, findings, and instructions for running the code
+*Group academic project — individual contributions documented in the project overview*
 
-Open the notebooks to review the Python code, charts, and saved outputs directly on GitHub
+## Toolkit
 
-Group projects are identified in their project documentation
+Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · Jupyter
